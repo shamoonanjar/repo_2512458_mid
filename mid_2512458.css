@@ -1,0 +1,14 @@
+header{
+
+    background-color: aqua;
+    text-align: center;
+}
+
+footer{
+    text-align: center;
+    color: grey;
+    font-family: 'Courier New', Courier, monospace;
+}
+a{
+    color: green;
+}
